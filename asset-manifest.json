@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/keeper-app/static/css/main.073c9b0a.css",
-    "main.js": "/keeper-app/static/js/main.ff3d2317.js",
+    "main.css": "/keeper-app/static/css/main.dd043fff.css",
+    "main.js": "/keeper-app/static/js/main.3a3ceeed.js",
     "static/js/787.28cb0dcd.chunk.js": "/keeper-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/keeper-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/keeper-app/index.html",
-    "main.073c9b0a.css.map": "/keeper-app/static/css/main.073c9b0a.css.map",
-    "main.ff3d2317.js.map": "/keeper-app/static/js/main.ff3d2317.js.map",
+    "main.dd043fff.css.map": "/keeper-app/static/css/main.dd043fff.css.map",
+    "main.3a3ceeed.js.map": "/keeper-app/static/js/main.3a3ceeed.js.map",
     "787.28cb0dcd.chunk.js.map": "/keeper-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ff3d2317.js"
+    "static/css/main.dd043fff.css",
+    "static/js/main.3a3ceeed.js"
   ]
 }
